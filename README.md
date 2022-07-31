@@ -1,6 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-rebase-practiceブランチで
-
+mainブランチで更新
 
 
